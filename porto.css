@@ -34,7 +34,6 @@
     animation: slideRight 1s ease forwards;
   }
   
-  /* navbar */
   .navbar a {
     display: inline-block;
     font-size: 25px;
@@ -51,7 +50,7 @@
     color: #0ef;
  }
  
- /* home */
+ /* .home */
   .home {
     position: relative;
     width: 100%;
