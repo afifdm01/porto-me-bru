@@ -155,7 +155,7 @@
   padding-bottom: 8rem;
 }
 .about-img img {
-  margin-left: 100px;
+  margin-left: 200px;
   margin-top: 50px;
   margin-bottom: 50px;
   max-width: 630px;
@@ -181,6 +181,7 @@
   font-size: 20px;
   line-height: 1.4;
   margin-bottom: 4rem;
+  margin-right: 100px;
 }
 
 /* services */
@@ -189,6 +190,7 @@
   font-size: 20px;
   line-height: 1.4;
   margin-bottom: 4rem;
+  margin: 150px;
 }
 
 .sub-title {
@@ -535,6 +537,7 @@ section {
   overflow: hidden;
   border-radius: 8px;
   cursor: pointer;
+  margin: 50px;
 }
 
 .row img {
@@ -542,6 +545,8 @@ section {
   border-radius: 8px;
   display: block;
   transition: transform 0.5s;
+  align-items: center;
+  justify-content: center;
 }
 
 .layer {
