@@ -349,19 +349,19 @@ section {
 }
 
 .progress-line.css span {
-  width: 60%;
+  width: 70%;
 }
 
 .progress-line.javascript span {
-  width: 85%;
+  width: 65%;
 }
 
 .progress-line.python span {
-  width: 50%;
+  width: 80%;
 }
 
 .progress-line.react span {
-  width: 75%;
+  width: 85%;
 }
 
 .progress-line span::after {
@@ -382,7 +382,7 @@ section {
 }
 
 .progress-line.css span::after{
-  content: "60%";
+  content: "70%";
 }
 
 .progress-line.javascript span::after{
@@ -390,7 +390,7 @@ section {
 }
 
 .progress-line.python span::after{
-  content: "75%";
+  content: "80%";
 }
 
 .progress-line.react span::after{
